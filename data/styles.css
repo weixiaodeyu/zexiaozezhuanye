@@ -66,9 +66,19 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
+}
+._连接线 {
+  font-size:20px;
+  color:#000000;
 }
 .sticky_1 {
   text-align:left;
